@@ -11,7 +11,7 @@
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para **rodrigomartins.agro@gmail.com** para me encontrar.
-- 📝 Veja meu Curriculum Vitae <a href="https://github.com/rodrigomarsa/rodrigomarsa/blob/master/curriculo.pdf" target="_blank">clicando aqui</a> para mais informações.
+- 📝 Veja meu Curriculum Vitae <a href="https://github.com/rodrigomarsa/rodrigomarsa/blob/main/curriculo.pdf" target="_blank">clicando aqui</a> para mais informações.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
