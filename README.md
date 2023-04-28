@@ -1,17 +1,17 @@
-![](https://komarev.com/ghpvc/?username=rodrigomarsa&color=006bed)
+### Olá, me chamo [Rodrigo](https://rodrigomarsa.github.io), sou de Uberlândia/MG e sou **Desenvolvedor Web Full Stack** 🚀.
 
-### Olá, eu sou o [Rodrigo](https://rodrigomarsa.github.io)!
-
-<center>
-
-![DEV](./dev.svg)
-
-</center>
+<img align="right" alt="coding" src="./dev.svg" width="400px" />
 
 <h3> :adult: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Módulo de Ciência da Computação** na <a href="https://www.betrybe.com/" target="_blank">TRYBE</a>.
+- 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
+- 🌱 Estou aprendendo como fazer testes unitários e de integração nas minhas próprias **API**; 
+- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 📫 Por favor, envie um email para **rodrigomartins.agro@gmail.com** para me encontrar.
+- 📝 Veja meu Curriculum Vitae <a href="https://github.com/rodrigomarsa/rodrigomarsa/blob/master/curriculo.pdf" target="_blank">clicando aqui</a> para mais informações.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -54,26 +54,20 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/>
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomarsa&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrigomarsa&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rodrigomarsa&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigomarsa&count_private=true&show_icons=true&theme=transparent&icon_color=268bd2&title_color=268bd2" alt="rodrigomarsa" />
+  
+</p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomarsa&layout=compact&theme=transparent&title_color=268bd2" alt="rodrigomarsa" />
+</p>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=rodrigomarsa&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=rodrigomarsa&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigomarsa&show_icons=true" />
-</picture>
+<br />
 
-<br/>
+![](https://komarev.com/ghpvc/?username=rodrigomarsa&color=006bed)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
