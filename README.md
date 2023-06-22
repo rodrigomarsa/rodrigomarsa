@@ -5,7 +5,7 @@
 <h3> :adult: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Módulo de Ciência da Computação** na <a href="https://www.betrybe.com/" target="_blank">TRYBE</a>.
+- 🎓 &nbsp; Estudando **Módulo de Python** na <a href="https://www.betrybe.com/" target="_blank">TRYBE</a>.
 - 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
 - 🌱 Estou aprendendo como fazer testes unitários e de integração nas minhas próprias **API**; 
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
@@ -21,6 +21,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -56,7 +57,7 @@
 
 <br />
 
-
+<div>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigomarsa&count_private=true&show_icons=true&theme=transparent&icon_color=268bd2&title_color=268bd2" alt="rodrigomarsa" />
   
@@ -64,6 +65,7 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomarsa&layout=compact&theme=transparent&title_color=268bd2" alt="rodrigomarsa" />
 </p>
+</div>
 
 <br />
 
