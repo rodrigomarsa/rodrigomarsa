@@ -4,9 +4,9 @@
 
 <h3> :adult: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤠 &nbsp; Engenheiro agrônomo apaixonado por tecnologia.
 - 🎓 &nbsp; Estudando **Módulo de Python** na <a href="https://www.betrybe.com/" target="_blank">TRYBE</a>.
-- 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
+- 👨🏽‍💻 Estou estudando **Orientação a Objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
 - 🌱 Estou aprendendo como fazer testes unitários e de integração nas minhas próprias **API**; 
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
