@@ -5,7 +5,7 @@
 <h3> :adult: &nbsp;Sobre mim </h3>
 
 - 🤠 &nbsp; Engenheiro agrônomo apaixonado por tecnologia.
-- 🎓 &nbsp; Estudando **Kotlin** na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
+- 🎓 &nbsp; Estudando **Java** na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
 - 👨🏽‍💻 Estou estudando **Orientação a Objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
 - 🌱 Estou aprendendo como fazer testes unitários e de integração nas minhas próprias **API**; 
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
@@ -22,6 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -56,6 +57,8 @@
 **Ferramentas de Desenvolvimento**
 
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
