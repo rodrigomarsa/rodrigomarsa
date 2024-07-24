@@ -5,7 +5,7 @@
 <h3> :adult: &nbsp;Sobre mim </h3>
 
 - 🤠 &nbsp; Engenheiro agrônomo apaixonado por tecnologia.
-- 🎓 &nbsp; Estudando **Java** na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
+- 🎓 &nbsp; Estudando **Spark** na <a href="https://www.alura.com.br/" target="_blank">Alura</a>.
 - 👨🏽‍💻 Estou estudando **Orientação a Objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
 - 🌱 Estou aprendendo como fazer testes unitários e de integração nas minhas próprias **API**; 
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
@@ -22,6 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -39,6 +40,10 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Django Rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![jUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 **Utilidades**
 
